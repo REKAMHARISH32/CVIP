@@ -1,2 +1,2 @@
 # CVIP
-This are tasks given for the data science internships from coderscave
+This are  the tasks given for the data science internship from coderscave
